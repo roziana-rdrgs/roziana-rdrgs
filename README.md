@@ -14,7 +14,7 @@ const roziana = {
            prezo pela qualidade do código que escrevo;
            aprendo rápido e me comunico bem;`,
     mad: `amo desenhar e realizar trabalhos manuais;
-          comecei a praticar muai-thay;
+          comecei a praticar muay-thai;
           tenho meu kindle de suporte emocional e tô sempre lendo, principalmente ficções sobre espaço/tempo, estudos sobre a sociedade e romances, claro.`
   },
 }

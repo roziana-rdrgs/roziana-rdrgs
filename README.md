@@ -21,6 +21,9 @@ const roziana = {
 ```
 
 <p>
+  <a href="https://api.badgr.io/public/assertions/ideL26P2Tf-95Lia3HSyjg">
+    <img src="https://api.badgr.io/public/assertions/ideL26P2Tf-95Lia3HSyjg/image" width="80px" height="80px" style="display:inline-block">
+  </a>
   <a href="https://api.badgr.io/public/assertions/LFCzvHFnRtGpjRxAKrgIgg">
     <img src="https://api.badgr.io/public/assertions/LFCzvHFnRtGpjRxAKrgIgg/image" width="80px" height="80px" style="display:inline-block">
   </a>

@@ -7,7 +7,7 @@ const roziana = {
     hard: {
       code: ["C#", "Javascript", "Typescript", "HTML", "CSS"],
       tools: ["React", "Storybook", "Styled-Components", "Angular", "Ionic", "Figma"],
-      others: ["API REST", ".NET Framework", "MySQL", "PHP", "Laravel"],
+      others: ["API REST", ".NET Framework", "MySQL"],
     },
     soft: `sou ótima em gerenciar minhas demandas e prazos;
            organizada;
@@ -19,19 +19,6 @@ const roziana = {
   },
 }
 ```
-
-<p>
-  <a href="https://api.badgr.io/public/assertions/ideL26P2Tf-95Lia3HSyjg">
-    <img src="https://api.badgr.io/public/assertions/ideL26P2Tf-95Lia3HSyjg/image" width="80px" height="80px" style="display:inline-block">
-  </a>
-  <a href="https://api.badgr.io/public/assertions/LFCzvHFnRtGpjRxAKrgIgg">
-    <img src="https://api.badgr.io/public/assertions/LFCzvHFnRtGpjRxAKrgIgg/image" width="80px" height="80px" style="display:inline-block">
-  </a>
-  <a href="https://api.badgr.io/public/assertions/f2ulf-ddRgGwgPOGJNRL8w">
-    <img src="https://api.badgr.io/public/assertions/f2ulf-ddRgGwgPOGJNRL8w/image" width="80px" height="80px" style="display:inline-block">
-  </a>
-</p>
-
 <div >
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=roziana-rdrgs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziana-rdrgs&layout=compact&langs_count=8&theme=dark"/>
